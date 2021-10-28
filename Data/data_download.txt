@@ -1,0 +1,9 @@
+Download Dataset from here - 
+https://www.kaggle.com/c/digit-recognizer/data
+
+And copy
+train.csv
+test.csv
+sample_submission.csv
+
+Here.
